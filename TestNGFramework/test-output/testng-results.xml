@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="42271" started-at="2020-05-18T15:50:32Z" finished-at="2020-05-18T15:51:14Z">
+  <suite name="TestNG Automation framework" duration-ms="43271" started-at="2020-05-18T16:46:20Z" finished-at="2020-05-18T16:47:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="42271" started-at="2020-05-18T15:50:32Z" finished-at="2020-05-18T15:51:14Z">
+    <test name="Framework for seleniumeasy" duration-ms="43271" started-at="2020-05-18T16:46:20Z" finished-at="2020-05-18T16:47:03Z">
       <class name="com.testng.TestNGClassone">
-        <test-method status="PASS" signature="setupnew()[pri:0, instance:com.testng.TestNGClassone@9f116cc]" name="setupnew" is-config="true" duration-ms="21630" started-at="2020-05-18T15:50:32Z" finished-at="2020-05-18T15:50:54Z">
+        <test-method status="PASS" signature="setupnew()[pri:0, instance:com.testng.TestNGClassone@1b11171f]" name="setupnew" is-config="true" duration-ms="17369" started-at="2020-05-18T16:46:20Z" finished-at="2020-05-18T16:46:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupnew -->
-        <test-method status="PASS" signature="titletest()[pri:1, instance:com.testng.TestNGClassone@9f116cc]" name="titletest" duration-ms="15" started-at="2020-05-18T15:50:54Z" finished-at="2020-05-18T15:50:54Z">
+        <test-method status="PASS" signature="titletest()[pri:1, instance:com.testng.TestNGClassone@1b11171f]" name="titletest" duration-ms="13" started-at="2020-05-18T16:46:37Z" finished-at="2020-05-18T16:46:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titletest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testng.TestNGClassone@9f116cc]" name="teardown" is-config="true" duration-ms="673" started-at="2020-05-18T15:50:54Z" finished-at="2020-05-18T15:50:54Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testng.TestNGClassone@1b11171f]" name="teardown" is-config="true" duration-ms="715" started-at="2020-05-18T16:46:37Z" finished-at="2020-05-18T16:46:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="setupnew()[pri:0, instance:com.testng.TestNGClassone@9f116cc]" name="setupnew" is-config="true" duration-ms="19230" started-at="2020-05-18T15:50:54Z" finished-at="2020-05-18T15:51:14Z">
+        <test-method status="PASS" signature="setupnew()[pri:0, instance:com.testng.TestNGClassone@1b11171f]" name="setupnew" is-config="true" duration-ms="24438" started-at="2020-05-18T16:46:38Z" finished-at="2020-05-18T16:47:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupnew -->
-        <test-method status="PASS" signature="logotest()[pri:2, instance:com.testng.TestNGClassone@9f116cc]" name="logotest" duration-ms="32" started-at="2020-05-18T15:51:14Z" finished-at="2020-05-18T15:51:14Z">
+        <test-method status="PASS" signature="logotest()[pri:2, instance:com.testng.TestNGClassone@1b11171f]" name="logotest" duration-ms="32" started-at="2020-05-18T16:47:02Z" finished-at="2020-05-18T16:47:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logotest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testng.TestNGClassone@9f116cc]" name="teardown" is-config="true" duration-ms="673" started-at="2020-05-18T15:51:14Z" finished-at="2020-05-18T15:51:14Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testng.TestNGClassone@1b11171f]" name="teardown" is-config="true" duration-ms="684" started-at="2020-05-18T16:47:02Z" finished-at="2020-05-18T16:47:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.testng.TestNGClassone -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Framework for seleniumeasy -->
+  </suite> <!-- TestNG Automation framework -->
 </testng-results>
