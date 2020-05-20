@@ -23,16 +23,9 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class TestNGClassone {
-	
-	
+public class TestNGClassone {	
 	public static WebDriver driver;
-	
-	
-	   
-	
-
-		 @BeforeMethod
+			 @BeforeMethod
 	 
 		public void setupnew()  {
 		System.setProperty("webdriver.chrome.driver" ,"C:\\Users\\jaju_v\\Downloads\\chromedriver_win32\\chromedriver.exe");
